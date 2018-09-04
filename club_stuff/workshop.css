@@ -1,0 +1,17 @@
+.inline {
+    position: static;
+    display:inline-block;
+}
+
+.workshops{
+    column-count:2;
+    text-align: center;
+}
+
+.workshop2{
+    text-align: center;
+}
+
+.page-header {
+    text-align: center;
+}
